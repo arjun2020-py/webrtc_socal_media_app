@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218764463544",
+    "project_id": "webrtcsocalmediaapp-772c6",
+    "storage_bucket": "webrtcsocalmediaapp-772c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218764463544:android:710ba4f3c2ab2fbe2c134d",
+        "android_client_info": {
+          "package_name": "com.example.webrtc_socal_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDQzNrOB-tjMYpi-VXk62JJgfTRDNzqCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
